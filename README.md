@@ -20,6 +20,6 @@ The project will run on http://localhost:3000/
 The built version of the project is in the build folder
 
 Application screenshots : 
-![]()
-![]()
-![]()
+![](https://github.com/valdemarus21/REACT-snikers-shop/blob/master/screenshots/12.jpg)
+![](https://github.com/valdemarus21/REACT-snikers-shop/blob/master/screenshots/13.jpg)
+![](https://github.com/valdemarus21/REACT-snikers-shop/blob/master/screenshots/14.jpg)
